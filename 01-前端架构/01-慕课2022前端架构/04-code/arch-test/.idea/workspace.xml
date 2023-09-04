@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b258b3e8-fdcd-4aca-8a42-36841dd5898e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-课程截图/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-代码手敲/01-有关文档/需求分析和架构设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-代码手敲/01-有关文档/需求分析和架构设计/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-代码手敲/01-有关文档/需求分析和架构设计/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-代码手敲/01-有关文档/需求分析和架构设计/03.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Uwcx4uT23Z9udIFNrzM4Rk2sMn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "ts.external.directory.path": "E:\\01-code\\00-23年新建包\\12-LearnArchitecture\\LearnArchitecture\\01-前端架构\\01-慕课2022前端架构\\04-code\\arch-test\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b258b3e8-fdcd-4aca-8a42-36841dd5898e" name="Changes" comment="" />
+      <created>1693854326745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693854326745</updated>
+      <workItem from="1693854328584" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
